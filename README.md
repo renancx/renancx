@@ -1,7 +1,6 @@
 ##
 
 ![Status](https://github-readme-stats.vercel.app/api?username=renancx&show_icons=true&theme=midnight-purple)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renancx&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
