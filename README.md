@@ -1,16 +1,16 @@
-##
+## Hello!
 
 ![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/269473510902583658/C0B9573A452471DEC081EA0066299EAF3D416BBB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-##
+## Github Status
 
 ![Status](https://github-readme-stats.vercel.app/api?username=renancx&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Programming Languages
 
 <div style="display: inline_block"> 
-Known Languages:<br><br>
+<br><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
