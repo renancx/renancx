@@ -1,5 +1,9 @@
 ##
 
+![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/269473510902583658/C0B9573A452471DEC081EA0066299EAF3D416BBB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
+##
+
 ![Status](https://github-readme-stats.vercel.app/api?username=renancx&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
