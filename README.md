@@ -1,5 +1,7 @@
 ## Hello!
 
+Discipline creates opportunity
+
 ![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/269473510902583658/C0B9573A452471DEC081EA0066299EAF3D416BBB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ## Github Status
