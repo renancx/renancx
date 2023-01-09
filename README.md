@@ -1,4 +1,4 @@
-## Hello!
+## Hey there!
 
 "Discipline creates opportunity"
 
