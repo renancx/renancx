@@ -1,6 +1,10 @@
-## Hey there!
+## Hey there! 💪
 
-"Discipline creates opportunity"
+"Discipline creates opportunity" 🧠 💰
+
+## Skills
+
+[![](https://skillicons.dev/icons?i=js,html,css,php,py,c,cpp,vscode,ps)](https://skillicons.dev)
 
 ## Github Status
 
