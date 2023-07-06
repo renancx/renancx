@@ -1,6 +1,6 @@
 ## Hey there! 💪
 
-"Discipline creates opportunity" 🧠 💰
+"Discipline creates opportunity" 💰
 
 ## Skills
 
